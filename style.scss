@@ -18,10 +18,14 @@ html {
 }
 
 body {
-  background: $white;
-  font: 18px/1.4 $helvetica;
-  color: $darkGray;
+  background: url("http://feelgrafix.com/data_images/out/10/839627-laser-wallpaper.jpg");
+  background-repeat: no-repeat;
+    background-position: right top;
+    background-attachment: fixed;
+  font: 18px/1.4 "Lucida Console", Lucida, monospace;
+  color: #73839b;
 }
+
 
 .container {
   margin: 0 auto;
